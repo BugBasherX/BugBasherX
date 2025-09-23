@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Code4Vision
+# 👋 Hi, I'm BugBasherX
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Code4Vision&fontSize=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=BugBasherX&fontSize=50&fontColor=ffffff)
 
 I am a **Full-Stack Developer** and **Graphic Designer** passionate about creating **beautiful, functional, and scalable solutions**.  
 I combine **clean code**, **modern design**, and **creative problem-solving** to turn ideas into reality.  
@@ -22,7 +22,7 @@ I combine **clean code**, **modern design**, and **creative problem-solving** to
 
 <div align="center">
 
-### [Portfolio Website](https://code4vision.onrender.com/)
+### [Portfolio Website](https://yuvrajkurmi.com.np/)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

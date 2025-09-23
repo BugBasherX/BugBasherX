@@ -96,7 +96,7 @@ I combine **clean code**, **modern design**, and **creative problem-solving** to
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://code4vision.onrender.com/" target="_blank">
+  <a href="https://yuvrajkurmi.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://instagram.com/yuvrajkurmi03" target="_blank">
@@ -116,5 +116,5 @@ I combine **clean code**, **modern design**, and **creative problem-solving** to
 
 <div align="center">
   <p><em>"Code is poetry, design is its rhythm – together they create magic." 💻🎨</em></p>
-  <p><em>Profile README crafted solely by Code4Vision</em></p>
+  <p><em>Profile README crafted solely by BugBasherX</em></p>
 </div>

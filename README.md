@@ -12,7 +12,7 @@
 
 
 
-* 🎓  I'm currently pursuing a B.Tech in CSE
+* 🎓  I'm currently pursuing a B.Sc in CSIT
 * ✉️  You can contact me at [developerrrajir@gmail.com](mailto:developerrajir@gmail.com)
 * ✨️ My best work till now  [Portfolio](https://yuvrajkurmi.vercel.app)
 * 🚀 Interested in future tech
@@ -51,7 +51,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 <p align="left">
 <a href="https://www.linkedin.com/in/bugbasherx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj kurmi" height="26" width="35" /></a>
 <a href="https://instagram.com/obscln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://facebook.com/obscln" target="blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><rect fill="#3d5a98" x="4.83" y="4.83" width="118.35" height="118.35" rx="6.53" ry="6.53"/><path fill="#fff" d="M86.48 123.17V77.34h15.38l2.3-17.86H86.48v-11.4c0-5.17 1.44-8.7 8.85-8.7h9.46v-16A126.56 126.56 0 0091 22.7c-13.62 0-23 8.3-23 23.61v13.17H52.62v17.86H68v45.83z"/></svg></a>
+<a href="https://facebook.com/obscln" target="blank"><img align="center" height="30" width=""40 src=""</a>
 </p>
 
  <div align="left">
@@ -60,8 +60,8 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 
 
 
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugBasherX&layout=donut-vertical&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

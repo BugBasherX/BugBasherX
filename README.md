@@ -51,7 +51,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 <p align="left">
 <a href="https://www.linkedin.com/in/bugbasherx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj kurmi" height="26" width="35" /></a>
 <a href="https://instagram.com/obscln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://facebook.com/obscln" target="blank"><img align="center" height="30" width=""40 src=""</a>
+<a href="https://facebook.com/obscln" target="blank"><img align="center" height="30" width=""40 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"</a>
 </p>
 
  <div align="left">
@@ -60,7 +60,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 
 
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugBasherX&layout=donut-vertical&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">

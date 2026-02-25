@@ -65,4 +65,5 @@ If my work helped or inspired you, drop a ⭐ — it helps more than you think.
 
 ---
 
-*This README is crafted by [Fezex](https://yuvrajkurmi.vercel.app) — where tradition meets tech.*
+*This README is crafted by [Yuvraj](https://yuvrajkurmi.vercel.app) — where tradition meets tech.*
+

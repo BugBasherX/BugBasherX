@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Yuvii</h1>
 
 <p align="center">
-  Fullstack Dev • React • Next.js • TypeScript
+  Front End Dev • React • Next.js • TypeScript
 </p>
 
 <p align="center">

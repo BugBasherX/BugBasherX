@@ -1,104 +1,100 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub Profile
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Build.+Learn.+Repeat.;Debug+like+a+Pro.;Code+with+Purpose." alt="Typing SVG" />
+# Hi, I'm YUVII 👋
+
+### Front End Developer • AI Enthusiast • Open Source Contributor
+
+Building software that is simple, scalable, and solves real-world problems.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BugBasherX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
 
 ---
 
-### Building software with a focus on simplicity, performance, and continuous learning.
+## About Me
 
-<br>
-
-## 🎨 ASCII Profile Image
-
-```
-    ┌─────────────────────────────────────┐
-    │                                     │
-    │     ╔═══════════════════════════╗   │
-    │     ║                           ║   │
-    │     ║   👨‍💻 BugBasherX 👨‍💻      ║   │
-    │     ║                           ║   │
-    │     ║   [ Developer ]           ║   │
-    │     ║   [ Problem Solver ]      ║   │
-    │     ║   [ Code Enthusiast ]     ║   │
-    │     ║                           ║   │
-    │     ╚═══════════════════════════╝   │
-    │                                     │
-    │    ⚡ Passion for Clean Code     │
-    │    🚀 Always Learning & Growing   │
-    │    🤝 Open Source Advocate        │
-    │                                     │
-    └─────────────────────────────────────┘
+```txt
+> Building software that solves real-world problems.
+> Exploring Artificial Intelligence and Cybersecurity.
+> Passionate about Open Source.
+> Always learning. Always improving.
 ```
 
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,git,github,linux,vscode" alt="Tech Stack" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BugBasherX&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugBasherX&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=linux,python,cpp,html,css,js,react,nodejs,git,github,c,vscode&perline=6"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🔍 **Problem Solver**: Tackling complex bugs and architectural challenges with precision
-- 💡 **Lifelong Learner**: Constantly exploring new technologies and best practices
-- 🤝 **Collaborator**: Passionate about open-source and community contributions
-- 📈 **Performance Focused**: Writing clean, efficient, and scalable code
-
----
-
-## 📂 Featured Projects
-
-### [Your Project Name](#)
-Brief description of what this project does and why it matters.
-- **Tech Stack**: HTML, CSS, JavaScript, React
-- **Key Features**: Feature 1, Feature 2, Feature 3
-
-### [Another Project](#)
-Brief description of what this project does and why it matters.
-- **Tech Stack**: Python, Node.js, PostgreSQL
-- **Key Features**: Feature 1, Feature 2, Feature 3
-
-*[Explore more projects →](https://github.com/BugBasherX?tab=repositories)*
-
----
-
-## 🌟 What I'm Currently Working On
-
-- 🎯 [Current project or initiative]
-- 📚 [Something you're learning]
-- 🔧 [Open-source contribution or goal]
-
----
-
-## 💬 Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BugBasherX&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugBasherX&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BugBasherX&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugBasherX&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## Currently
+
+- 🚀 Building useful software
+- 🤖 Learning AI & Automation
+- 🔐 Exploring Cybersecurity
+- 🌱 Improving every day
+
+---
+
+<div align="center">
+
+### Connect
+
+<a href="https://github.com/BugBasherX">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace these with your own links -->
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -106,8 +102,8 @@ Brief description of what this project does and why it matters.
 
 <div align="center">
 
-### 💡 *"The best code is code that solves real problems and is easy to understand."*
+> *"Code. Learn. Build. Repeat."*
 
-**Thanks for visiting! Feel free to ⭐ any projects you find useful.**
+⭐ Thanks for visiting my profile!
 
 </div>

@@ -10,7 +10,31 @@
 
 <br>
 
+## 🎨 ASCII Profile Image
+
+```
+    ┌─────────────────────────────────────┐
+    │                                     │
+    │     ╔═══════════════════════════╗   │
+    │     ║                           ║   │
+    │     ║   👨‍💻 BugBasherX 👨‍💻      ║   │
+    │     ║                           ║   │
+    │     ║   [ Developer ]           ║   │
+    │     ║   [ Problem Solver ]      ║   │
+    │     ║   [ Code Enthusiast ]     ║   │
+    │     ║                           ║   │
+    │     ╚═══════════════════════════╝   │
+    │                                     │
+    │    ⚡ Passion for Clean Code     │
+    │    🚀 Always Learning & Growing   │
+    │    🤝 Open Source Advocate        │
+    │                                     │
+    └─────────────────────────────────────┘
+```
+
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 

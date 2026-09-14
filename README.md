@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%" alt="Yuvii — Front-end developer building AI-driven, real-world software"/>
+<img src="banner.svg" width="100%" alt="Yuvii — Front-end developer building AI-driven, real-world software"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### About
 
@@ -22,7 +22,7 @@ Front-end developer focused on software that's simple, scalable, and solves real
 <img src="https://img.shields.io/badge/-Learning_AI_%26_automation-0B0E1A?style=flat-square&labelColor=0B0E1A&color=00D9C0"/>
 <img src="https://img.shields.io/badge/-Exploring_cybersecurity-0B0E1A?style=flat-square&labelColor=0B0E1A&color=6C63FF"/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Stack
 
@@ -56,14 +56,14 @@ Front-end developer focused on software that's simple, scalable, and solves real
 <img src="https://img.shields.io/badge/Figma-0B0E1A?style=flat-square&logo=figma&logoColor=F24E1E"/>
 </details>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Analytics
 
@@ -78,7 +78,7 @@ Front-end developer focused on software that's simple, scalable, and solves real
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Trophies
 
@@ -88,7 +88,7 @@ Front-end developer focused on software that's simple, scalable, and solves real
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Contribution snake
 
@@ -102,7 +102,7 @@ Front-end developer focused on software that's simple, scalable, and solves real
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 

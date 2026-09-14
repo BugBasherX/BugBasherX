@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.svg" width="100%" alt="Yuvii — Front-end developer building AI-driven, real-world software"/>
+<img src="banner.svg" width="100%" alt="Yuvii — front-end development, AI & automation, security, open source"/>
 </div>
 
 <br/>
@@ -10,15 +10,7 @@ Front-end developer focused on software that's simple, scalable, and solves real
 
 ---
 
-### 02 — Focus
-
-- Building useful software
-- Learning AI & automation
-- Exploring cybersecurity
-
----
-
-### 03 — Stack
+### 02 — Stack
 
 **Languages** · `Python` `JavaScript` `TypeScript` `C++` `C`
 
@@ -28,28 +20,14 @@ Front-end developer focused on software that's simple, scalable, and solves real
 
 ---
 
-### 04 — Activity
+### 03 — Coding activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 05 — Contribution record
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugBasherX/BugBasherX/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BugBasherX/BugBasherX/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution record" width="100%" src="https://raw.githubusercontent.com/BugBasherX/BugBasherX/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-### 06 — Connect
+### 04 — Connect
 
 [GitHub](https://github.com/BugBasherX) · [LinkedIn](https://linkedin.com/in/bugbasherx) · [Email](mailto:d3v.yuvii@gmail.com)
 

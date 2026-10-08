@@ -109,52 +109,49 @@
 %%{init: {'theme':'forest', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
   root((BugBasherX))
-    Journey
-      🧠 Builder at Heart
+    Builder Journey
+      🧠 Learn by building
         Rebuild systems from scratch
-        Learn by coding and experimenting
-        Project-first learning
+        Explore real tools and internals
+        Test ideas fast
       🐧 Systems & OS
-        Linux internals
-        Kernel exploration
+        Linux
+        Kernel concepts
         x86 emulation
-        Termux / X11 tooling
+        Microcontrollers
       🤖 AI & LLMs
         Local inference
         Model optimization
-        Agent workflows
-        AI-assisted tooling
-      🌐 Web & Apps
+        Agentic workflows
+        AI tooling
+      🌐 Product & Apps
         TypeScript
         Browser extensions
-        Full-stack experiments
-        API-first products
+        Web tools
+        APIs
       🔒 Security & Research
         Ethical hacking
-        Tooling & automation
-        Penetration testing
+        Tooling
+        Automation
         Cybersecurity learning
-    Expertise
+    Core Expertise
       Low-Level Systems
         x86 emulation
-        OS internals
-        Microcontrollers
-        Linux / kernel work
+        Linux internals
+        Embedded systems
       AI Engineering
         LLMs
-        Inference optimization
-        Local AI systems
-        Agentic workflows
+        Local inference
+        Agent workflows
+        Prompt & automation tooling
       Product Building
         Chrome extensions
-        Apps & tools
-        User-facing experiences
+        User-facing tools
         APIs & integrations
-      Research & Exploration
+      Research Exploration
         Build-your-own-X
-        Public APIs
+        Open source experimentation
         Project-based learning
-        Open-source experimentation
 ```
 
 ---

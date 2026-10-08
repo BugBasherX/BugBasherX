@@ -70,7 +70,7 @@ My work is focused on:
 <img src="svg_icons/git.svg" width="65" height="65" alt="Git" />
 <img src="svg_icons/docker.svg" width="65" height="65" alt="Docker" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
-<img src="svg_icons/bash.svg" width="65" height="65" alt="Bash" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="65" height="65" alt="Bash" />
 
 ### 🤖 AI & Local Models
 
@@ -86,7 +86,7 @@ My work is focused on:
   <img src="svg_icons/Hydra.svg" alt="THC Hydra" />
   <img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />
   <img src="svg_icons/Autopsy.svg" alt="Autopsy" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" />
+  <img src="svg_icons/Bash.svg" alt="Bash" />
 </div>
 
 </div>

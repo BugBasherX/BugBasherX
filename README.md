@@ -109,49 +109,52 @@
 %%{init: {'theme':'forest', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
   root((BugBasherX))
-    Tech Stack
-      🐍 Python
-        PyTorch
-        TensorFlow
-        Pandas & NumPy
-        MLflow
-      🌐 Web Dev
-        PHP
-        JavaScript
-        HTML/CSS
-        APIs
-      ☁️ Cloud & DevOps
-        AWS
-        Azure
-        Docker
-        Heroku
-    AI/ML Expertise
-      🤖 Machine Learning
-        Model Training
-        Model Deployment
-        MLOps Pipeline
-      🧠 NLP Specialist
-        spaCy
-        Hugging Face
-        Language Models
-      🔗 Agentic AI
-        LangChain
-        Phidata
-        Agent Frameworks
-      📊 Data Science
-        Vector Databases
-        RAG Systems
-        Prompt Engineering
-    Current Focus
-      🔬 Scalable AI Systems
-      ⚡ GPU Computing
-      🏗️ Distributed Systems
-      🛠️ Building Tools
-    Goals & Interests
-      🏎️ Formula 1 Analytics
-      🏆 Hackathon Wins
-      📝 POCs to MVPs
-      💎 Open Source
+    Journey
+      🧠 Builder at Heart
+        Rebuild systems from scratch
+        Learn by coding and experimenting
+        Project-first learning
+      🐧 Systems & OS
+        Linux internals
+        Kernel exploration
+        x86 emulation
+        Termux / X11 tooling
+      🤖 AI & LLMs
+        Local inference
+        Model optimization
+        Agent workflows
+        AI-assisted tooling
+      🌐 Web & Apps
+        TypeScript
+        Browser extensions
+        Full-stack experiments
+        API-first products
+      🔒 Security & Research
+        Ethical hacking
+        Tooling & automation
+        Penetration testing
+        Cybersecurity learning
+    Expertise
+      Low-Level Systems
+        x86 emulation
+        OS internals
+        Microcontrollers
+        Linux / kernel work
+      AI Engineering
+        LLMs
+        Inference optimization
+        Local AI systems
+        Agentic workflows
+      Product Building
+        Chrome extensions
+        Apps & tools
+        User-facing experiences
+        APIs & integrations
+      Research & Exploration
+        Build-your-own-X
+        Public APIs
+        Project-based learning
+        Open-source experimentation
 ```
 
 ---

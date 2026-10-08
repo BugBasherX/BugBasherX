@@ -70,43 +70,17 @@
 
 <div align="center">
 
-### 🤖 Machine Learning, AI & Agentic Frameworks
-
-<img src="svg_icons/python.svg" width="65" height="65" alt="Python" />
-<img src="svg_icons/mlflow.svg" width="65" height="65" alt="MLflow" />
-<img src="svg_icons/pytorch.svg" width="65" height="65" alt="PyTorch" />
-<img src="svg_icons/tensorflow.svg" width="65" height="65" alt="TensorFlow" />
-
-<img src="svg_icons/keras.svg" width="65" height="65" alt="Keras" />
-<img src="svg_icons/scikit_learn.svg" width="65" height="65" alt="Scikit-Learn" />
-<img src="svg_icons/numpy.svg" width="65" height="65" alt="NumPy" />
-<img src="svg_icons/spacy.svg" width="65" height="65" alt="spaCy" />
-
-<img src="svg_icons/nltk.svg" width="65" height="65" alt="NLTK" />
-<img src="svg_icons/matplotlib.svg" width="65" height="65" alt="Matplotlib" />
-<img src="svg_icons/seaborn.svg" width="65" height="65" alt="Seaborn" />
-<img src="svg_icons/pandas.svg" width="65" height="65" alt="Pandas" />
-
-<img src="svg_icons/langchain.svg" width="65" height="65" alt="LangChain" />
-<img src="svg_icons/huggingface.svg" width="65" height="65" alt="Hugging Face" />
-<img src="svg_icons/phidata.svg" width="65" height="65" alt="Phidata" />
-<img src="svg_icons/faiss.svg" width="65" height="65" alt="FAISS" />
-
-
-
 ### 🌐 Web Development, Tools & Cloud Platforms
 
-<img src="svg_icons/aws.svg" width="65" height="65" alt="AWS" />
-<img src="svg_icons/azure.svg" width="65" height="65" alt="Azure" />
 <img src="svg_icons/html.svg" width="65" height="65" alt="HTML5" />
 <img src="svg_icons/css.svg" width="65" height="65" alt="CSS3" />
 <img src="svg_icons/javascript.svg" width="65" height="65" alt="JavaScript" />
-<img src="svg_icons/flask.svg" width="65" height="65" alt="Flask" />
-<img src="svg_icons/php.svg" width="65" height="65" alt="PHP" />
+<img src="svg_icons/node.svg" width="65" height="65" alt="NodeJS" />
+<img src="svg_icons/python.svg" width="65" height="65" alt="Python" />
 
-<img src="svg_icons/api.svg" width="65" height="65" alt="API" />
-<img src="svg_icons/swagger.svg" width="65" height="65" alt="Swagger" />
-<img src="svg_icons/postgresql.svg" width="65" height="65" alt="PostgreSQL" />
+<img src="svg_icons/flask.svg" width="65" height="65" alt="Flask" />
+<img src="svg_icons/react.svg" width="65" height="65" alt="React" />
+
 <img src="svg_icons/mysql.svg" width="65" height="65" alt="MySQL" />
 <img src="svg_icons/git.svg" width="65" height="65" alt="Git" />
 <img src="svg_icons/docker.svg" width="65" height="65" alt="Docker" />
@@ -200,7 +174,7 @@ mindmap
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YubrajKurmi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BugBAsherX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff&border_radius=10"/>
   
 
 

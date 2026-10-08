@@ -7,7 +7,7 @@
 <br/><br/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aradhyapavan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YubrajKurmi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/aradhyapavan" target="_blank">
+<a href="https://linkedin.com/in/YubrajKurmi" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/aradhyapavan" target="_blank">
+<a href="https://github.com/YubrajKurmi" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:aradhyapavan@gmail.com" target="_blank">
+<a href="mailto:YubrajKurmi@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email" />
 </a>
 </p>
@@ -45,65 +45,14 @@
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td colspan="2" align="center">
-<img src="svg_icons/aradhya_github_readme.svg" width="450" alt="Aradhya GitHub Readme SVG"/>
+<img src="svg_icons/Yubraj_github_readme.svg" width="450" alt="Yubraj GitHub Readme SVG"/>
 <br/><br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding: 10px; word-wrap: break-word;">
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Education%20and%20Focus&fontSize=18&fontColor=fff&animation=blinking&fontAlignY=55" width="100%"/>
-</div>
-
 <br/>
 
-**M.Tech AI/ML from BITS Pilani | NLP Specialization**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%"/>
-</div>
-
-<br/>
-
-<table style="width: 100%; font-size: 12px; table-layout: fixed;">
-<tr><td width="15px">🤖</td><td><strong>Focus</strong><br/>Translating data challenges into scalable solutions</td></tr>
-<tr><td>🧩</td><td><strong>Tech Stack</strong><br/>Python • AI/ML & NLP Systems • Idea → Impact</td></tr>
-<tr><td>🌟</td><td><strong>Interests</strong><br/>💻 Technology<br/>🏎️ F1 Racing<br/>🚀 Space<br/>🎬 Movies & TV Shows<br/>🌍 Geopolitics</td></tr>
-</table>
-
-</td>
-<td width="50%" valign="top" style="padding: 10px; word-wrap: break-word;">
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Key%20Highlights&fontSize=18&fontColor=fff&animation=blinking&fontAlignY=55" width="100%"/>
-</div>
-
-<br/>
-
-> *Building useful intelligent systems that people can actually use*
-
-<br/>
-
-<table style="width: 100%; font-size: 12px; table-layout: fixed;">
-<tr><td width="15px">🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins</td></tr>
-<tr><td>⚡</td><td><strong>Explore</strong><br/>Different tech, GPUs, distributed systems</td></tr>
-<tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Design, functionality, UX</td></tr>
-<tr><td>🔄</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains</td></tr>
-</table>
-
-<div align="center">
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="90%"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer&animation=twinkling" width="100%"/>
-</div>
 
 <br/>
 
@@ -198,7 +147,7 @@
 ```mermaid
 %%{init: {'theme':'forest', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
-  root((Aradhya Pavan))
+  root((Yubraj Kurmi))
     Tech Stack
       🐍 Python
         PyTorch
@@ -251,21 +200,21 @@ mindmap
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aradhyapavan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YubrajKurmi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff&border_radius=10"/>
   
 
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradhyapavan&theme=github-compact&hide_border=true&bg_color=0d1117&color=64ffda&line=ff6b6b&point=ffffff&area=true&area_color=64ffda" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YubrajKurmi&theme=github-compact&hide_border=true&bg_color=0d1117&color=64ffda&line=ff6b6b&point=ffffff&area=true&area_color=64ffda" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
 
 
 
-<a href="https://komarev.com/ghpvc/?username=aradhyapavan">
-  <img src="https://komarev.com/ghpvc/?username=aradhyapavan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://komarev.com/ghpvc/?username=YubrajKurmi">
+  <img src="https://komarev.com/ghpvc/?username=YubrajKurmi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
  </a>
 
 
@@ -281,7 +230,7 @@ mindmap
 
 <div align="center">
 
-**🙏 From [aradhyapavan](https://github.com/aradhyapavan) with ❤️**
+**🙏 From [YubrajKurmi](https://github.com/YubrajKurmi) with ❤️**
 
 </div>
 

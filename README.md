@@ -86,7 +86,7 @@ My work is focused on:
   <img src="svg_icons/Hydra.svg" alt="THC Hydra" />
   <img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />
   <img src="svg_icons/Autopsy.svg" alt="Autopsy" />
-  <img src="svg_icons/Bash.svg" alt="Bash" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" />
 </div>
 
 </div>

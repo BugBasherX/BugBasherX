@@ -42,7 +42,7 @@
   <!-- Typing Animation -->
   <!-- Line 1 -->
   <text x="270" y="160" font-family="monospace" font-size="14" fill="#569cd6">
-    # Aradhya Pavan
+    # Yubraj Kurmi
     <animate attributeName="opacity" from="0" to="1" begin="0s" dur="1s" fill="freeze"/>
   </text>
 
@@ -54,19 +54,19 @@
 
   <!-- Line 3 -->
   <text x="270" y="220" font-family="monospace" font-size="14" fill="#dcdcaa" opacity="0">
-    🚀 Passionate about AI &amp; Full-Stack Dev
+    🚀 Passionate about AI &amp; Cyber Security
     <animate attributeName="opacity" from="0" to="1" begin="2s" dur="1s" fill="freeze"/>
   </text>
 
   <!-- Line 4 -->
   <text x="270" y="250" font-family="monospace" font-size="14" fill="#4ec9b0" opacity="0">
-    📂 Projects: NLP, Agentic AI, Web Apps
+    📂 Projects: Web Apps
     <animate attributeName="opacity" from="0" to="1" begin="3s" dur="1s" fill="freeze"/>
   </text>
 
   <!-- Line 5 -->
   <text x="270" y="280" font-family="monospace" font-size="14" fill="#9cdcfe" opacity="0">
-    🌐 Visit: github.com/aradhyapavan
+    🌐 Visit: github.com/BugBasherX
     <animate attributeName="opacity" from="0" to="1" begin="4s" dur="1s" fill="freeze"/>
   </text>
 

@@ -88,16 +88,16 @@
 <img src="svg_icons/heroku.svg" width="65" height="65" alt="Heroku" />
 <img src="svg_icons/streamlit.svg" width="65" height="65" alt="Streamlit" />
 
-### 🧠 Advanced AI & NLP Technologies
+### 🧠 CyberSecurity and Pentesting
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-<img src="svg_icons/model_context_protocol.svg" alt="Model Context Protocol" />
-<img src="svg_icons/model_deployments.svg" alt="Model Deployments" />
+<img src="svg_icons/Nmao" alt="NMap" />
+<img src="svg_icons/Hydra" alt="THC Hydra" />
 <img src="svg_icons/prompt_engineering.svg" alt="Prompt Engineering" />
-<img src="svg_icons/vector_databases.svg" alt="Vector Databases" />
-<img src="svg_icons/fine_tuning.svg" alt="Fine-tuning SLMs and LLMs" />
-<img src="svg_icons/rag.svg" alt="RAG (Retrieval Augmented Generation)" />
-<img src="svg_icons/agentic_frameworks.svg" alt="AI Agentic Frameworks" />
+<img src="svg_icons/Loop_engineering.svg" alt="Loop Engineering" />
+<img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />
+<img src="svg_icons/Autopsy" alt="Autopsy" />
+<img src="svg_icons/Bash.svg" alt="Bash" />
 </div>
 
 </div>

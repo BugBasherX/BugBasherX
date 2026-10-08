@@ -75,11 +75,11 @@
 <img src="svg_icons/html.svg" width="65" height="65" alt="HTML5" />
 <img src="svg_icons/css.svg" width="65" height="65" alt="CSS3" />
 <img src="svg_icons/javascript.svg" width="65" height="65" alt="JavaScript" />
-<img src="svg_icons/node.svg" width="65" height="65" alt="NodeJS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="65" height="65" alt="NodeJS" />
 <img src="svg_icons/python.svg" width="65" height="65" alt="Python" />
 
 <img src="svg_icons/flask.svg" width="65" height="65" alt="Flask" />
-<img src="svg_icons/react.svg" width="65" height="65" alt="React" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="65" height="65" alt="React" />
 
 <img src="svg_icons/mysql.svg" width="65" height="65" alt="MySQL" />
 <img src="svg_icons/git.svg" width="65" height="65" alt="Git" />

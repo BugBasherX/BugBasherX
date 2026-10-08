@@ -2,7 +2,7 @@
 
 ![Header](./header.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;BSC.CSIT+%7C+CyberSecurity+%E2%9C%A8;Python+%E2%80%A2+Cloud+%E2%80%A2+Agentic+AI+%F0%9F%9A%80;Formula+1+Fan+%F0%9F%8F%8E%EF%B8%8F+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;BSC.CSIT+%7C+CyberSecurity+%E2%9C%A8;Python+%E2%80%A2+Web+%E2%80%A2+Cyber+Security+%F0%9F%9A%80;Formula+1+Fan+%F0%9F%8F%8E%EF%B8%8F+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling applied -->
+    <!-- CSS: background: linear-gradient(135deg, #f8f9fa, #ffffff); padding: 10px; border-radius: 10px; margin: 5px; border: 2px solid #e9ecef; box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+    <rect x="5" y="5" 
+          width="55" height="55" 
+          rx="10" ry="10"
+          fill="url(#bgGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="17.0" y="17.0" width="31" height="31" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXUlEQVR4nO3Z32vTUBQH8Pwh+uxfZK/bZPow9cEHHxyKbL3rZhWdiILFXwiOiWDdQFEYe3CU3Ka04pbVblGmZtp14mZtQ7ZVu7XdkVtRFkttbkNzbzBfOG855HySe9u0kSQ/fjqbASTvx4hMYiRvYETAnZI3ggF5gp7b8fBBJBfcG5xYip7bEeLXleczPP6NCMgTDgBuLhvSDGA6uQMgQkmdAIwcVmAsnLHUjdOztgaK9M819F4/9cpdwJUTKfg7amyt5fDnexXYMncaeu/htLuA0TYBU2N6Q9/youH+EmoHcOFoAjaNbUtPrbYLN8/McQAcTzIDyNOVhh7leY7PJmYF3DqrQrWyazl+PVeqfxhwAVw+xgZITq2CnjEsFen/99IRCuCkJB+A2ADD3XG4OzgP0w+WYXbmC3x4XYTP+iboCwZoqTxMj+twqS8pHmBlyYQ0WYcfpQq0Cj1m/OICPwC9gk5T/l6FqydfehdAE5vMigfYLlfhnVqAF48+QvTaG7gzMF/fE/QxorJTsxyrZwwxAGahDMqzHNwfycBwT7xp3/t00dK3lt3iB6AbkW7ah6OLEOpuPvTeWlILFsDX1RIfQKgrbusxQFgAbrN8AEt8ABIYMHSIQLg34V1AqCsO2bcmhI8kvAugYUUIB2BFCAlgQQgLoJmJfvIuQEvl67/EPAnQbA4vJEBL5W0/iQoH0BiHF+6bOMQ4PC36N/rtc+qfitj4S74jADdL+m9fMQWR/IQ3ACMSbRsweFA5gANykePw34Z6Yvsk5y+65cf0Vrq5bDAiUcfD+/EjtcxP3n64DMciOr0AAAAASUVORK5CYII="/>
+</svg>

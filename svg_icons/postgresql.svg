@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling applied -->
+    <!-- CSS: background: linear-gradient(135deg, #f8f9fa, #ffffff); padding: 10px; border-radius: 10px; margin: 5px; border: 2px solid #e9ecef; box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+    <rect x="5" y="5" 
+          width="55" height="55" 
+          rx="10" ry="10"
+          fill="url(#bgGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="17.0" y="17.0" width="31" height="31" href="data:image/png;base64,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"/>
+</svg>

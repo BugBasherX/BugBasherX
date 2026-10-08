@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling applied -->
+    <!-- CSS: background: linear-gradient(135deg, #f8f9fa, #ffffff); padding: 10px; border-radius: 10px; margin: 5px; border: 2px solid #e9ecef; box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+    <rect x="5" y="5" 
+          width="55" height="55" 
+          rx="10" ry="10"
+          fill="url(#bgGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="17.0" y="17.0" width="31" height="31" href="data:image/png;base64,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"/>
+</svg>

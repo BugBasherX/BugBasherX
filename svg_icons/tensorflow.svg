@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling applied -->
+    <!-- CSS: background: linear-gradient(135deg, #f8f9fa, #ffffff); padding: 10px; border-radius: 10px; margin: 5px; border: 2px solid #e9ecef; box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+    <rect x="5" y="5" 
+          width="55" height="55" 
+          rx="10" ry="10"
+          fill="url(#bgGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="17.0" y="17.0" width="31" height="31" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACKElEQVR4nO2ZPYgTQRiGH/EHRRFEBMFG5IrDQmwsbWwEwUKsTWlraWNhYeGVgo2FN+PJFaaR7CxBES7YCBYiWNnEShBERUWR4/Re2U2yEUxye5Pd7AbmgQ82ybB5HzaZ+YaBQKCeSOwYdT0XyHJJhs/Z64hvirlC3dEqi7K8lkVJZe87lFZEV485Td1Qk30yPJJhcxB+pEBPYlMxz9TmIHVAlhsyrP8bfKLAUGRDjrvVBTcsytAeFTyXwFBkTS1OzS74KodkuSPDxqTwuQVcWn/kWFGbI+UF77BLlquyfNwquIeA+k/ji2Kuq8meYsMvc06WN3mDewu4rN7KcWH64CssyNDabvACBNR/Ii21WPALb1kaN7vMTMClta6IJR8B7+AFCyipIKBRZXhZwDrwfPYChveyNJIuc1oBes3eRTnezULgpwy31eRAHtG8Alk/lawBju/lCBicDMe3HOcpMECOY+mqnDR9BQm80jJnc4wrRGCAIs7I8cJfwPBJlmtqsnPiuOlnofNj7538xxwNRXzYvsDDfP16QdOoU8yJsd9R5t6hsHUg4pcct0oLWrqA8/ytBwEbBBQEKhZoJPP83AqQfP6U/XLcTKbSuRQY4L19nIayeqGZEQSqJghUTRCoGlm63gIR3WrTJ+HusTvdelq+5haI+JGuvB32Uhf0gMP9c4PfEwR65wAxR6krus9JGZ78JxDRUVzDA75xyHA5u46G14FAgEL5C3g3opIHuIgUAAAAAElFTkSuQmCC"/>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2d32"/>
+      <stop offset="100%" stop-color="#0f0f0f"/>
+    </linearGradient>
+    <linearGradient id="frameGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#151515"/>
+    </linearGradient>
+    <linearGradient id="standGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#444"/>
+      <stop offset="100%" stop-color="#111"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Monitor Frame -->
+  <rect x="180" y="60" width="440" height="320" rx="20" fill="url(#frameGrad)" filter="url(#shadow)"/>
+
+  <!-- Screen -->
+  <rect x="200" y="80" width="400" height="280" rx="10" fill="url(#screenGrad)"/>
+
+  <!-- Tabs -->
+  <rect x="200" y="80" width="400" height="40" rx="10" fill="#2d2d2d"/>
+  <rect x="220" y="90" width="120" height="20" rx="5" fill="#1e1e1e" stroke="#444"/>
+  <text x="225" y="105" font-size="12" font-family="monospace" fill="white">README.md</text>
+  <rect x="350" y="90" width="100" height="20" rx="5" fill="#2d2d2d"/>
+  <text x="355" y="105" font-size="12" font-family="monospace" fill="#aaa">styles.css</text>
+
+  <!-- Sidebar -->
+  <rect x="200" y="120" width="60" height="240" fill="#252526"/>
+  <rect x="210" y="140" width="20" height="20" rx="3" fill="#444"/>
+  <rect x="210" y="170" width="20" height="20" rx="3" fill="#444"/>
+
+  <!-- Code editor area -->
+  <rect x="260" y="120" width="340" height="240" fill="#1e1e1e"/>
+
+  <!-- Typing Animation -->
+  <!-- Line 1 -->
+  <text x="270" y="160" font-family="monospace" font-size="14" fill="#569cd6">
+    # Aradhya Pavan
+    <animate attributeName="display" values="inline;inline" dur="0.1s" begin="0s" fill="freeze"/>
+  </text>
+
+  <!-- Line 2 -->
+  <text x="270" y="190" font-family="monospace" font-size="14" fill="#ce9178" opacity="0">
+    **GitHub Profile**
+    <animate attributeName="opacity" from="0" to="1" begin="2s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Line 3 -->
+  <text x="270" y="220" font-family="monospace" font-size="14" fill="#dcdcaa" opacity="0">
+    🚀 Passionate about AI & Full-Stack Dev
+    <animate attributeName="opacity" from="0" to="1" begin="4s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Line 4 -->
+  <text x="270" y="250" font-family="monospace" font-size="14" fill="#4ec9b0" opacity="0">
+    📂 Projects: NLP, Agentic AI, Web Apps
+    <animate attributeName="opacity" from="0" to="1" begin="6s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Line 5 -->
+  <text x="270" y="280" font-family="monospace" font-size="14" fill="#9cdcfe" opacity="0">
+    🌐 Visit: github.com/aradhyapavan
+    <animate attributeName="opacity" from="0" to="1" begin="8s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="270" y="290" width="10" height="16" fill="#9cdcfe">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Stand -->
+  <rect x="360" y="380" width="80" height="50" rx="10" fill="url(#standGrad)" filter="url(#shadow)"/>
+  <ellipse cx="400" cy="440" rx="120" ry="20" fill="url(#standGrad)" filter="url(#shadow)"/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling applied -->
+    <!-- CSS: background: linear-gradient(135deg, #f8f9fa, #ffffff); padding: 10px; border-radius: 10px; margin: 5px; border: 2px solid #e9ecef; box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+    <rect x="5" y="5" 
+          width="55" height="55" 
+          rx="10" ry="10"
+          fill="url(#bgGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="17.0" y="17.0" width="31" height="31" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX///8TB1T/ygDnBIgAAEsAAE0AAFERAlOamK14dZUNAFIlHF8AAEUAAEj5+Pu1s8Xv7/L/4o7/+u7/+P3mAIHBwM4AAEC9u8v/45Pd3OWoprv2udfRz9yKh6P/67LtYqrzmsWBfp0AADZ6dpgjGV7n5uwAADr/9NP/4Ib//PaWlKv2s9TtWqflAHz72uoAADSkVm4TAAACRklEQVR4nO3d0U7iQBSA4SIFRVsFhaKuq8Iu6HZ19/3fznhXMyeZ06Tj6Zn8//VkmA8SLsjpUBRERERERETkuV/zSdD5hfWphmwxOw+a/7Y+1ZAtZvl/hgi9h9B/CP2H0LbDdhO2vey1x7iFV8c6bL/stcfIhXV4ukmF8GsIbUOoCaFtCDUhtA2hJoS2IdSE0DaEmhDahlATQtsQakJoG0JNCG1DqAmhbQg1IbQNoSZL4U+h3aa7Ii58OJPq7mEpLMtZUNN2V8SFbVMG1XV3WsNSOD8NX7v88v7HhWelcP45QoQIEfYQRqe+vAsPW6nu+b0L4yFEmDaEmhAiTBtCTQgRpg1hUby8rsJe/2QkfDyRukaIECFChAgRIkSIECFChAgRIkT4zcKX1W3YKqdfouLlL2yPVViTk3B5J9Vd4V0YD2HKEA4TwpQhHCaEKUNYFHf3Un7uTVRM0DbCBO3RzxMlQ0xBx/Mu/Pv2JHSTkfB5PQ1ar3MXTqcIESJEiBAhQoQIESJEiBAhQnfC97VQTsJ/P6S6e3gXxkOYMoQIdSFMGUKEuhCmDCHCzzaLnZCf+VLFbWZVePfirMxK6HwKGiFChCMQ7oVnDf73FNbCt+1kLMLlg1S/exPvF0K7sQjjxYWWIdSE0DaEmhDahlATQtsQakJoG0JNCG1DqAmhbQg1IbQNoSaEtiHUhNA2hJoQ2oZQE0LbEGpqhf+ArKqchJeHsGW/4cWEfc89UZYh9B9C/yH0H0L/5S9shPat9amIiIiIiMiyD1xVoVo6EtYqAAAAAElFTkSuQmCC"/>
+</svg>

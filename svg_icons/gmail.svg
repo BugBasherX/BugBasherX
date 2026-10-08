@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+    <defs>
+        <!-- Gradient matching the CSS requirement -->
+        <linearGradient id="socialGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+        </linearGradient>
+        <!-- Shadow filter matching CSS box-shadow: 0 2px 8px rgba(0,0,0,0.1) -->
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="rgba(0,0,0,0.1)"/>
+        </filter>
+    </defs>
+    
+    <!-- Background box with exact CSS styling -->
+    <rect x="5" y="5" 
+          width="40" height="40" 
+          rx="10" ry="10"
+          fill="url(#socialGrad)" 
+          stroke="#e9ecef" 
+          stroke-width="2"
+          filter="url(#shadow)"/>
+    
+    <!-- Embedded icon positioned within the padded area -->
+    <image x="14.5" y="14.5" width="21" height="21" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMyNDI5MzgiLz4KPHBhdGggZD0iTTQxLjYzNjQgMjAzLjAyOEg3My40NTQ1VjEyNS43NTVMMjggOTEuNjY0NlYxODkuMzkyQzI4IDE5Ni45MzcgMzQuMTEzNiAyMDMuMDI4IDQxLjYzNjQgMjAzLjAyOFoiIGZpbGw9IiM0Mjg1RjQiLz4KPHBhdGggZD0iTTE4Mi41NDUgMjAzLjAyOEgyMTQuMzY0QzIyMS45MDkgMjAzLjAyOCAyMjggMTk2LjkxNSAyMjggMTg5LjM5MlY5MS42NjQ2TDE4Mi41NDUgMTI1Ljc1NSIgZmlsbD0iIzM0QTg1MyIvPgo8cGF0aCBkPSJNMTgyLjU0NSA2Ni42NjQzVjEyNS43NTVMMjI4IDkxLjY2NDNWNzMuNDgyNUMyMjggNTYuNjE4OSAyMDguNzUgNDcuMDA1MiAxOTUuMjczIDU3LjExODkiIGZpbGw9IiNGQkJDMDQiLz4KPHBhdGggZD0iTTczLjQ1NDUgMTI1Ljc1NVY2Ni42NjQ2TDEyOCAxMDcuNTc0TDE4Mi41NDUgNjYuNjY0NlYxMjUuNzU1TDEyOCAxNjYuNjY1IiBmaWxsPSIjRUE0MzM1Ii8+CjxwYXRoIGQ9Ik0yOCA3My40ODI1VjkxLjY2NDNMNzMuNDU0NSAxMjUuNzU1VjY2LjY2NDNMNjAuNzI3MyA1Ny4xMTg5QzQ3LjIyNzMgNDcuMDA1MiAyOCA1Ni42MTg5IDI4IDczLjQ4MjVaIiBmaWxsPSIjQzUyMjFGIi8+Cjwvc3ZnPgoKICAgICAgICA8L2c+CiAgICAgICAgCiAgPC9zdmc+CiAg"/>
+</svg>

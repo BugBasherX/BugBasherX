@@ -76,8 +76,6 @@ My work is focused on:
 
 <img src="svg_icons/ai_brain.svg" width="65" height="65" alt="AI" />
 <img src="svg_icons/pytorch.svg" width="65" height="65" alt="PyTorch" />
-<img src="svg_icons/llama.svg" width="65" height="65" alt="LLM" />
-<img src="svg_icons/openai.svg" width="65" height="65" alt="OpenAI" />
 
 ### 🔐 Security & Tooling
 

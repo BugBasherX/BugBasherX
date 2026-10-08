@@ -92,7 +92,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 <img src="svg_icons/Nmap.svg" alt="NMap" />
-<img src="svg_icons/Hydra" alt="THC Hydra" />
+<img src="svg_icons/Hydra.svg" alt="THC Hydra" />
 <img src="svg_icons/prompt_engineering.svg" alt="Prompt Engineering" />
 <img src="svg_icons/Loop_engineering.svg" alt="Loop Engineering" />
 <img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />

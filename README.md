@@ -2,7 +2,7 @@
 
 ![Header](./header.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;M.Tech+AIML+%7C+NLP+Specialization+%E2%9C%A8;Python+%E2%80%A2+Cloud+%E2%80%A2+Agentic+AI+%F0%9F%9A%80;Formula+1+Fan+%F0%9F%8F%8E%EF%B8%8F+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;BSC.CSIT+%7C+CyberSecurity+%E2%9C%A8;Python+%E2%80%A2+Cloud+%E2%80%A2+Agentic+AI+%F0%9F%9A%80;Formula+1+Fan+%F0%9F%8F%8E%EF%B8%8F+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -15,15 +15,15 @@
 <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/YubrajKurmi" target="_blank">
+<a href="https://linkedin.com/in/bugbasherx" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/YubrajKurmi" target="_blank">
+<a href="https://github.com/bugbasherx" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YubrajKurmi@gmail.com" target="_blank">
+<a href="mailto:d3v.yuvii@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email" />
 </a>
 </p>

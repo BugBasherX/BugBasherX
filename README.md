@@ -42,6 +42,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=👋%20About%20Me&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="About Me banner" />
 </div>
 
+<div align="center">
+
 I build things from the ground up: systems, tools, AI experiments, and product ideas that turn curiosity into working projects.
 
 My work is focused on:
@@ -50,6 +52,8 @@ My work is focused on:
 - web and browser-based tools
 - project-based learning and open-source exploration
 - cybersecurity and security tooling
+
+</div>
 
 <br/>
 
@@ -91,7 +95,7 @@ My work is focused on:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> What I’m Into
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> What I'm Into
 
 - 🧠 AI experimentation and local inference
 - 🐧 Linux, system internals, and low-level tooling
@@ -148,17 +152,23 @@ mindmap
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BugBasherX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff&icon_color=58a6ff" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugBasherX&theme=github-compact&hide_border=true&bg_color=0d1117&color=64ffda&line=ff6b6b&point=ffffff&area=true&area_color=64ffda" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugBasherX&theme=github-compact&hide_border=true&bg_color=0d1117&color=64ffda&line=ff6b6b&point=ffffff&area=true&area_color=64ffda" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<a href="https://komarev.com/ghpvc/?username=BugBasherX">
-  <img src="https://komarev.com/ghpvc/?username=BugBasherX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</a>
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=BugBasherX">
+    <img src="https://komarev.com/ghpvc/?username=BugBasherX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-### 📫 Let’s build something interesting.
+<div align="center">
+
+### 📫 Let's build something interesting.
 
 </div>
 

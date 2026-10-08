@@ -1,12 +1,148 @@
-<svg width="1000" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYWNhYTVlNi1mMjNmLTRmZWEtOGY5NS05NjAzMTU0Yzg0NDcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBE6k9a1CtiKHt0oSnVS25cAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxNjlmOTJiMi04NDllLTQzNmYtOTkyYi0xMjNmM2M3NGU1NmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNorrO01feSlUl2RdCzWn1cjgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggYMGL0cmhxCNumunjidOVbnYbveUSi0EXK4G8N88fNM6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKXW+g5GqdWX7mpkZdKSISsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDj8Zmggq459ouk7yRsvCPg0mrnE7aqcyu8xiHHBn5TP2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiUZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBhY2FhNWU2LWYyM2YtNGZlYS04Zjk1LTk2MDMxNTRjODQ0Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEwZGYwMjgzLTNiYmEtNGI5Yy1iOGI0LWVlMTNiZWY0Yjg3ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBgwYvRyaHEI26a6eOJ05Vudhu95RKLQRcrgbw3zx80zqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggUqgwA+SVEhqbdM9yV7NWWd2s8v706GrWyHUu1Y4sSFGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggy42R8IgCYXojHgy0oG+5UZIRwfCAeYFTr0elvLpT0+h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCk9ka4Nli122e08AjVuAar7gti/9YBg1j3M9ITgYYenipEAW6HcplN2xsrxZxSJ5iuWBvSSsHrqNgeb51Qpl4I=</c2pa:manifest></metadata>
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0B0E1A" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#6C63FF"/>
-      <stop offset="50%" stop-color="#00D9C0"/>
-      <stop offset="85%" stop-color="#6C63FF"/>
-      <stop offset="100%" stop-color="#0B0E1A" stop-opacity="0"/>
+    <!-- Professional gradient background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1a1a1a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0f0f0f;stop-opacity:1"/>
     </linearGradient>
+    
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4AA;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00F5FF;stop-opacity:1"/>
+    </linearGradient>
+    
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/>
+    </linearGradient>
+    
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#e0e0e0;stop-opacity:1"/>
+    </linearGradient>
+    
+    <!-- Beautiful card shadow - multiple layers for depth -->
+    <filter id="cardShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="20" stdDeviation="25" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.04"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.03"/>
+    </filter>
+    
+    <!-- Grid pattern for tech feel -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0,212,170,0.05)" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect x="0" y="3" width="1000" height="2" rx="1" fill="url(#dividerGrad)"/>
+  
+  <!-- Card background with stunning shadow and subtle wave animation -->
+  <rect x="20" y="20" width="1160" height="240" fill="url(#bgGradient)" rx="50" ry="50" filter="url(#cardShadow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-1; 0,1; 0,0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  
+  <!-- Subtle border with gentle wave -->
+  <rect x="20" y="20" width="1160" height="240" fill="none" stroke="rgba(0,212,170,0.2)" stroke-width="1" rx="50" ry="50">
+    <animate attributeName="stroke-opacity" values="0.2;0.4;0.2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Subtle moving particles -->
+  <g opacity="0.3">
+    <circle cx="200" cy="60" r="1.5" fill="#00D4AA">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 800,20; 0,0" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="200" r="1" fill="#00F5FF">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -600,30; 0,0" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="25s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Main content container -->
+  <g transform="translate(600, 140)">
+    <!-- Name with beautiful Segoe Script font and blue gradient -->
+    <text x="0" y="0" text-anchor="middle" fill="url(#blueGradient)" font-family="'Segoe Script', 'Brush Script MT', cursive" font-size="48" font-weight="400" letter-spacing="1px">
+      <tspan>Hey, I'm </tspan>
+      <tspan font-weight="500">Yubraj Kurmi</tspan>
+      <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0,5; 0,-2; 0,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Waving hand positioned properly after text with more space -->
+    <text x="380" y="0" text-anchor="middle" font-size="35">
+      👋
+      <animateTransform attributeName="transform" type="rotate" values="0 380 0; 15 380 0; -5 380 0; 10 380 0; 0 380 0" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Blue accent line under name -->
+    <line x1="-120" y1="15" x2="120" y2="15" stroke="url(#blueGradient)" stroke-width="3" opacity="0.8">
+      <animate attributeName="stroke-dasharray" values="0,240; 120,120; 240,0" dur="2s" begin="1.5s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;0.8" dur="0.5s" begin="1.5s" fill="freeze"/>
+    </line>
+    
+    <!-- Professional subtitle with proper vertical spacing -->
+    <text x="0" y="55" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="300" letter-spacing="1px">
+      <tspan>Full-stack Web Developer and aspiring CyberSecurity enthusiast</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,20; 0,0" dur="1s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.8s" fill="freeze"/>
+    </text>
+    
+    <!-- Accent line with better positioning -->
+    <line x1="-150" y1="75" x2="150" y2="75" stroke="url(#accentGradient)" stroke-width="2" opacity="0.6">
+      <animate attributeName="stroke-dasharray" values="0,300; 150,150; 300,0" dur="3s" begin="2s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;0.8" dur="0.5s" begin="2s" fill="freeze"/>
+    </line>
+    
+    <!-- Quote with properly sized background box -->
+    <rect x="-220" y="85" width="440" height="30" rx="15" ry="15" fill="rgba(0,0,0,0.2)" stroke="rgba(30,58,138,0.3)" stroke-width="1">
+      <animate attributeName="opacity" values="0;1" dur="1s" begin="3s" fill="freeze"/>
+    </rect>
+    
+    <!-- Professional quote with better spacing -->
+    <text x="0" y="103" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="300" letter-spacing="0.5px" font-style="italic">
+      <tspan>"Don't just aspire to make a living, aspire to make a difference."</tspan>
+      <animate attributeName="opacity" values="0;1" dur="1.5s" begin="3s" fill="freeze"/>
+    </text>
+  </g>
+  
+  <!-- Professional tech stack icons -->
+  <g transform="translate(150, 200)" opacity="0.6">
+    <!-- Clean React representation -->
+    <g>
+      <circle cx="0" cy="0" r="8" fill="none" stroke="#61DAFB" stroke-width="1.5" opacity="0.8">
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="0" r="3" fill="#61DAFB" opacity="0.9"/>
+    </g>
+  </g>
+  
+  <!-- Python representation -->
+  <g transform="translate(250, 200)" opacity="0.6">
+    <rect x="-8" y="-5" width="16" height="10" rx="2" fill="#3776AB" opacity="0.8"/>
+    <circle cx="-3" cy="-1" r="1.5" fill="#FFD343"/>
+  </g>
+  
+  <!-- AI/ML representation -->
+  <g transform="translate(950, 200)" opacity="0.6">
+    <circle cx="0" cy="-6" r="2.5" fill="#00D4AA">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-8" cy="6" r="2.5" fill="#00F5FF">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="8" cy="6" r="2.5" fill="#ffffff">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="-6" x2="-8" y2="6" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <line x1="0" y1="-6" x2="8" y2="6" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  </g>
+  
+  <!-- Database representation -->
+  <g transform="translate(1050, 200)" opacity="0.6">
+    <ellipse cx="0" cy="-3" rx="8" ry="2" fill="#00D4AA" opacity="0.8"/>
+    <ellipse cx="0" cy="0" rx="8" ry="2" fill="#00D4AA" opacity="0.6"/>
+    <ellipse cx="0" cy="3" rx="8" ry="2" fill="#00D4AA" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
 </svg>

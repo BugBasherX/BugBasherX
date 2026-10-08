@@ -96,7 +96,7 @@
 <img src="svg_icons/prompt_engineering.svg" alt="Prompt Engineering" />
 <img src="svg_icons/Loop_engineering.svg" alt="Loop Engineering" />
 <img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />
-<img src="svg_icons/Autopsy" alt="Autopsy" />
+<img src="svg_icons/Autopsy.svg" alt="Autopsy" />
 <img src="svg_icons/Bash.svg" alt="Bash" />
 </div>
 

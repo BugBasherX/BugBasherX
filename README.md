@@ -2,7 +2,7 @@
 
 ![Header](./header.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%9A%F0%9F%92%A1%3B+Solving+Real+World+Problems+%F0%9F%94%A5%3B+Shipping+Impactful+Products+%F0%9F%9A%80" alt="Typing banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Systems+and+Tools+%F0%9F%9A%80%3B+Exploring+AI+%F0%9F%A4%9A%3B+Shipping+Projects+%F0%9F%94%A5" alt="Typing banner" />
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-  🚀 <strong>Explore more on personal website:</strong> <a href="https://yubrajkurmi.com.np" target="_blank" rel="noreferrer">https://yubrajkurmi.com.np</a>
+  🚀 <strong>Explore more:</strong> <a href="https://yubrajkurmi.com.np" target="_blank" rel="noreferrer">https://yubrajkurmi.com.np</a>
 </p>
 
 </div>
@@ -42,14 +42,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=👋%20About%20Me&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="About Me banner" />
 </div>
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="svg_icons/Yubraj_github_readme.svg" width="450" alt="BugBasherX GitHub Readme SVG"/>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+I build things from the ground up: systems, tools, AI experiments, and product ideas that turn curiosity into working projects.
+
+My work is focused on:
+- Linux, kernels, and low-level systems
+- local AI / LLM experimentation
+- web and browser-based tools
+- project-based learning and open-source exploration
+- cybersecurity and security tooling
 
 <br/>
 
@@ -57,31 +57,33 @@
 
 <div align="center">
 
-### 🌐 Web Development, Tools & Cloud Platforms
+### 🔧 Core Stack
 
+<img src="svg_icons/python.svg" width="65" height="65" alt="Python" />
+<img src="svg_icons/javascript.svg" width="65" height="65" alt="JavaScript" />
 <img src="svg_icons/html.svg" width="65" height="65" alt="HTML5" />
 <img src="svg_icons/css.svg" width="65" height="65" alt="CSS3" />
-<img src="svg_icons/javascript.svg" width="65" height="65" alt="JavaScript" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="65" height="65" alt="NodeJS" />
-<img src="svg_icons/python.svg" width="65" height="65" alt="Python" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="65" height="65" alt="C" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
 
-<img src="svg_icons/flask.svg" width="65" height="65" alt="Flask" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="65" height="65" alt="React" />
-
-<img src="svg_icons/mysql.svg" width="65" height="65" alt="MySQL" />
 <img src="svg_icons/git.svg" width="65" height="65" alt="Git" />
 <img src="svg_icons/docker.svg" width="65" height="65" alt="Docker" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+<img src="svg_icons/bash.svg" width="65" height="65" alt="Bash" />
 
-<img src="svg_icons/heroku.svg" width="65" height="65" alt="Heroku" />
-<img src="svg_icons/streamlit.svg" width="65" height="65" alt="Streamlit" />
+### 🤖 AI & Local Models
 
-### 🧠 CyberSecurity and Pentesting
+<img src="svg_icons/ai_brain.svg" width="65" height="65" alt="AI" />
+<img src="svg_icons/pytorch.svg" width="65" height="65" alt="PyTorch" />
+<img src="svg_icons/llama.svg" width="65" height="65" alt="LLM" />
+<img src="svg_icons/openai.svg" width="65" height="65" alt="OpenAI" />
+
+### 🔐 Security & Tooling
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <img src="svg_icons/Nmap.svg" alt="NMap" />
   <img src="svg_icons/Hydra.svg" alt="THC Hydra" />
-  <img src="svg_icons/prompt_engineering.svg" alt="Prompt Engineering" />
-  <img src="svg_icons/Loop_engineering.svg" alt="Loop Engineering" />
   <img src="svg_icons/aircrack.svg" alt="Aircrack-ng" />
   <img src="svg_icons/Autopsy.svg" alt="Autopsy" />
   <img src="svg_icons/Bash.svg" alt="Bash" />
@@ -91,67 +93,53 @@
 
 <br/>
 
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> What I’m Into
 
-### 🎯 Current Focus
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="svg_icons/scalable_ai_systems.svg" alt="Scalable AI Systems" />
-  <img src="svg_icons/gpus_distributed_computing.svg" alt="GPUs & Distributed Computing" />
-  <img src="svg_icons/building_tools_that_matter.svg" alt="Building Tools That Matter" />
-</div>
+- 🧠 AI experimentation and local inference
+- 🐧 Linux, system internals, and low-level tooling
+- 🧱 Rebuilding systems from scratch to understand how they work
+- 🌐 Browser tools, web apps, and product-focused prototypes
+- 🔍 Security research, tooling, and ethical exploration
+- 📚 Open-source and project-based learning
 
 ---
 
-### 🧠 My Journey & Expertise Map
+### 🧭 Journey & Expertise Map
 
 ```mermaid
 %%{init: {'theme':'forest', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
   root((BugBasherX))
     Builder Journey
-      🧠 Learn by building
-        Rebuild systems from scratch
-        Explore real tools and internals
-        Test ideas fast
-      🐧 Systems & OS
-        Linux
+      🧱 Build from scratch
+        Understand internals deeply
+        Learn by shipping projects
+      🐧 Systems & Linux
         Kernel concepts
-        x86 emulation
-        Microcontrollers
+        Low-level tooling
+        Emulation
+        Embedded / constrained systems
       🤖 AI & LLMs
         Local inference
-        Model optimization
+        Model experimentation
         Agentic workflows
-        AI tooling
-      🌐 Product & Apps
-        TypeScript
+        Tooling around AI
+      🌐 Product & Tools
         Browser extensions
-        Web tools
+        Web apps
         APIs
+        Prototypes
       🔒 Security & Research
-        Ethical hacking
-        Tooling
+        Networking tools
+        Ethical hacking learning
         Automation
-        Cybersecurity learning
-    Core Expertise
-      Low-Level Systems
-        x86 emulation
-        Linux internals
-        Embedded systems
-      AI Engineering
-        LLMs
-        Local inference
-        Agent workflows
-        Prompt & automation tooling
-      Product Building
-        Chrome extensions
-        User-facing tools
-        APIs & integrations
-      Research Exploration
-        Build-your-own-X
-        Open source experimentation
-        Project-based learning
+    Expertise
+      System-level thinking
+      Python & JS/TS
+      Linux and shell tooling
+      AI experimentation
+      Application prototyping
+      Security tooling
 ```
 
 ---
@@ -172,9 +160,7 @@ mindmap
   <img src="https://komarev.com/ghpvc/?username=BugBasherX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </a>
 
-### 📫 Let's Connect & Build Something Amazing Together!
-
-*"I focus on what matters: design, functionality, user experience, and attention to detail."*
+### 📫 Let’s build something interesting.
 
 </div>
 

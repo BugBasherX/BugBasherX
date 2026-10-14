@@ -1,2 +1,7 @@
-“Building things, breaking things, learning every day.”
-$ echo "Dream. Code. Repeat."
+<div align="center">
+
+### `⟡ 𝙲𝚘𝚍𝚎 • 𝙲𝚛𝚎𝚊𝚝𝚎 • 𝙲𝚘𝚗𝚚𝚞𝚎𝚛 ⟡`
+
+**「 𝙻𝚎𝚊𝚛𝚗 𝚎𝚟𝚎𝚛𝚢 𝚍𝚊𝚢. 𝙱𝚞𝚒𝚕𝚍 𝚎𝚟𝚎𝚛𝚢 𝚍𝚊𝚢. 」**
+
+</div>
